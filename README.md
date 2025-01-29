@@ -1,1 +1,3 @@
 # DataEngineering
+
+Setting a mongodb environment on atlas is available under the notebook week2/Hands_on_Lab_Setting_up_MongoDB_Atlas_and_Performing_CRUD_Operations.ipynb
