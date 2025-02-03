@@ -8,3 +8,5 @@
 2025-02-03 19:31:22,336 - INFO - Inserting data is successfully completed
 2025-02-03 19:33:09,991 - INFO - start inserting the data into MongoDB
 2025-02-03 19:33:10,342 - INFO - Inserting data is successfully completed
+2025-02-03 19:34:59,447 - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-03 19:34:59,447 - WARNING - No such comm: d27b6b83-e500-4e0f-87de-de8e79f1476e
