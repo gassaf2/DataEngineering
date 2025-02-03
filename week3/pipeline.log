@@ -1,12 +1,7 @@
-2025-02-03 19:09:46,600 - INFO - Extracting sales data.csv
-2025-02-03 19:09:46,607 - INFO - data extracted successfully
-2025-02-03 19:09:50,792 - INFO - Extracting sales data.csv
-2025-02-03 19:09:50,793 - INFO - data extracted successfully
-2025-02-03 19:14:42,208 - INFO - transforming data
-2025-02-03 19:14:42,225 - INFO - transforming data is successfully completed
-2025-02-03 19:31:21,954 - INFO - start inserting the data into MongoDB
-2025-02-03 19:31:22,336 - INFO - Inserting data is successfully completed
-2025-02-03 19:33:09,991 - INFO - start inserting the data into MongoDB
-2025-02-03 19:33:10,342 - INFO - Inserting data is successfully completed
-2025-02-03 19:34:59,447 - ERROR - No such comm target registered: jupyter.widget.control
-2025-02-03 19:34:59,447 - WARNING - No such comm: d27b6b83-e500-4e0f-87de-de8e79f1476e
+
+2025-02-03 19:38:57,138 - INFO - Extracting sales data.csv
+2025-02-03 19:38:57,144 - INFO - data extracted successfully
+2025-02-03 19:38:57,177 - INFO - transforming data
+2025-02-03 19:38:57,178 - INFO - transforming data is successfully completed
+2025-02-03 19:39:06,183 - INFO - start inserting the data into MongoDB
+2025-02-03 19:39:06,590 - INFO - Inserting data is successfully completed
