@@ -1,0 +1,4 @@
+transaction_id,customer_id,product_id,quantity,price
+T001,C001,P001,2,100
+T002,C002,P002,1,200
+T003,C001,P003,3,50

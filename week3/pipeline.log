@@ -1,0 +1,10 @@
+2025-02-03 19:09:46,600 - INFO - Extracting sales data.csv
+2025-02-03 19:09:46,607 - INFO - data extracted successfully
+2025-02-03 19:09:50,792 - INFO - Extracting sales data.csv
+2025-02-03 19:09:50,793 - INFO - data extracted successfully
+2025-02-03 19:14:42,208 - INFO - transforming data
+2025-02-03 19:14:42,225 - INFO - transforming data is successfully completed
+2025-02-03 19:31:21,954 - INFO - start inserting the data into MongoDB
+2025-02-03 19:31:22,336 - INFO - Inserting data is successfully completed
+2025-02-03 19:33:09,991 - INFO - start inserting the data into MongoDB
+2025-02-03 19:33:10,342 - INFO - Inserting data is successfully completed
