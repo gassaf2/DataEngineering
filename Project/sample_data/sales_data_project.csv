@@ -1,4 +1,4 @@
-date,product id,sales amount,store location
+date,product_id,sales_amount,store_location
 2/5/2025,P001,150,New York
 2/5/2025,P002,300,Los Angeles
 2/5/2025,P003,450,Chicago
